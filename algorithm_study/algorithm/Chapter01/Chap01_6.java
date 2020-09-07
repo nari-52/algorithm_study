@@ -2,7 +2,7 @@ package Chapter01;
 
 import java.util.Scanner;
 
-public class chap01_6 {
+public class Chap01_6 {
 
 	public static void main(String[] args) {
 		
