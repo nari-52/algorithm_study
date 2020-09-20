@@ -10,7 +10,6 @@ public class Q5 {
 			int j=b.length-1-i;
 			a[i] = b[j];
 		}
-		
 	}
 
 	public static void main(String[] args) {
@@ -34,7 +33,5 @@ public class Q5 {
 		for(int i=0; i<numb; i++) {
 			System.out.println("a[" + i + "] : " + a[i]);
 		}
-
 	}
-
 }

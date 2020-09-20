@@ -10,7 +10,7 @@ public class Chap02_8B {
 		String dchar = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 		
 		do {
-			d[digits++] = dchar.charAt(x % r);
+			d[digits++] = dchar.charAt(x % r); // charAt (인덱스가 x%r인 곳의 문자를 가져온다.)
 			x /= r;
 		} while (x != 0);
 		
