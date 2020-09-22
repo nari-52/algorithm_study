@@ -18,7 +18,6 @@ public class Q6 {
 			char temp = d[i];
 			d[i] = d[digits-i-1];
 			d[digits-i-1] = temp;
-			
 		}
 		return digits;
 		
@@ -52,8 +51,6 @@ public class Q6 {
 			System.out.print("한번 더 할까요? (1. 예 / 2. 아니오) : ");
 			retry = stdIn.nextInt();
 		} while (retry == 1);
-		
-
 	}
 
 }

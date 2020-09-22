@@ -63,5 +63,4 @@ public class Q7 {
 			retry = stdIn.nextInt();
 		} while (retry == 1);
 	}
-
 }
