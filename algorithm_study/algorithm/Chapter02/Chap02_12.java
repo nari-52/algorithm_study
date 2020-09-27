@@ -15,7 +15,5 @@ public class Chap02_12 {
 				System.out.println("X["+i+"]["+j+"] = " + X[i][j]);
 			}
 		}
-		
 	}
-
 }
