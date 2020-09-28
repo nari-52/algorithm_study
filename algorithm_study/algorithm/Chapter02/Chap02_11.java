@@ -29,9 +29,6 @@ public class Chap02_11 {
 		for(int i=0; i<ptr; i++) {
 			System.out.println(prime[i]);
 		}
-		
 		System.out.println("나눗셈을 수행한 횟수 : " + counter);
-
 	}
-
 }
